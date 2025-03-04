@@ -1,4 +1,4 @@
-# 大语言模型 LLMBook-zh
+# 大语言模型 LLMBook
 
 ## 项目背景
 本课程围绕[中国人民大学赵鑫教授团队](<http://aibox.ruc.edu.cn/>)出品的《大语言模型》书籍展开，覆盖大语言模型训练与使用的全流程，从预训练到微调与对齐，从使用技术到评测应用，帮助学员全面掌握大语言模型的核心技术。并且，课程内容基于大量的代码实战与讲解，通过实际项目与案例，学员能将理论知识应用于真实场景，提升解决实际问题的能力。<br>
@@ -13,7 +13,7 @@
 
 ## 书籍获取
 纸质版书籍：[京东](https://u.jd.com/GOjWlBZ)<br>
-电子版书籍：[地址1](https://github.com/datawhalechina/llmbook/blob/main/LLMBook.pdf)，[地址2](http://aibox.ruc.edu.cn/zws/index.htm)<br>
+电子版PDF书籍：[地址1](https://github.com/datawhalechina/llmbook/blob/main/LLMBook.pdf)，[地址2](http://aibox.ruc.edu.cn/zws/index.htm)<br>
 备注：由于后续修订和篇幅原因，大模型应用章节未纳入正式出版，一切内容以正式出版物为准。
 
 
