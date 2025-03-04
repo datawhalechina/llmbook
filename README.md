@@ -13,7 +13,7 @@
 
 ## 书籍获取
 纸质版书籍：[京东](https://u.jd.com/GOjWlBZ)<br>
-电子版书籍：[地址1](https://llmbook-zh.github.io/LLMBook.pdf)，[地址2](http://aibox.ruc.edu.cn/zws/index.htm)<br>
+电子版书籍：[地址1](https://github.com/datawhalechina/llmbook/blob/main/LLMBook.pdf)，[地址2](http://aibox.ruc.edu.cn/zws/index.htm)<br>
 备注：由于后续修订和篇幅原因，大模型应用章节未纳入正式出版，一切内容以正式出版物为准。
 
 
